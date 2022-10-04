@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['init_5fbucket_5fbuffer_0',['init_bucket_buffer',['../group__OverflowBuckets.html#gac6b02e20e394c67378fd57f4bc2178ff',1,'no_partitioning_join.c']]]
+  ['hashtable_5ft_0',['hashtable_t',['../structhashtable__t.html',1,'']]],
+  ['histogram_5fjoin_1',['histogram_join',['../group__Radix.html#ga015f9dc4ec1c7aff653d50f9640cf0c4',1,'parallel_radix_join.c']]],
+  ['histogram_5foptimized_5fjoin_2',['histogram_optimized_join',['../group__Radix.html#ga8993fd0618321b467f9b8d4ec9e99342',1,'parallel_radix_join.c']]]
 ];

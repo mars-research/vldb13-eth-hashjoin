@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['main_2dmemory_20hash_20joins_20on_20multi_2dcore_20cpus_3a_20tuning_20to_20the_20underlying_20hardware_0',['Main-Memory Hash Joins On Multi-Core CPUs: Tuning to the Underlying Hardware',['../index.html',1,'']]],
-  ['main_2ec_1',['main.c',['../main_8c.html',1,'']]],
-  ['malloc_5fcheck_2',['MALLOC_CHECK',['../parallel__radix__join_8c.html#a695386264d21b46004e203d9852ee0db',1,'parallel_radix_join.c']]]
+  ['l1_5fassociativity_0',['L1_ASSOCIATIVITY',['../group__SystemParameters.html#gaef02e51975cf8348fa68e75b11045cef',1,'prj_params.h']]],
+  ['l1_5fcache_5fsize_1',['L1_CACHE_SIZE',['../group__SystemParameters.html#gab928f78a446ecf9ef7023e3b664c8d21',1,'prj_params.h']]],
+  ['l1_5fcache_5ftuples_2',['L1_CACHE_TUPLES',['../group__SystemParameters.html#ga0e523b83359462f683e7e5847de011b6',1,'prj_params.h']]],
+  ['load_5frelation_3',['load_relation',['../group__DataGeneration.html#gafc0fc4b38148ab565df8c1eff1859499',1,'load_relation(relation_t *relation, char *filename, uint64_t num_tuples):&#160;generator.c'],['../group__DataGeneration.html#gafc0fc4b38148ab565df8c1eff1859499',1,'load_relation(relation_t *relation, char *filename, uint64_t num_tuples):&#160;generator.c']]],
+  ['loadfiler_4',['loadfileR',['../structparam__t.html#a0a7ad9d448c5d218b2817a5741dbe36a',1,'param_t']]]
 ];

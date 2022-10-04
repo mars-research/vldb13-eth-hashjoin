@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['seed_5fgenerator_0',['seed_generator',['../group__DataGeneration.html#gaa5202ae255601786d677d52ba0500772',1,'seed_generator(unsigned int seed):&#160;generator.c'],['../group__DataGeneration.html#gaa5202ae255601786d677d52ba0500772',1,'seed_generator(unsigned int seed):&#160;generator.c']]],
-  ['serial_5fradix_5fpartition_1',['serial_radix_partition',['../group__Radix.html#ga0c6b453afb151005db9d8c7c0e99e02e',1,'parallel_radix_join.c']]],
-  ['small_5fpadding_5ftuples_2',['SMALL_PADDING_TUPLES',['../group__SystemParameters.html#gabdcd6e7e121b31360f9523b9aac3850e',1,'prj_params.h']]],
-  ['sorted_5fmaterialize_5fto_5ffile_3',['SORTED_MATERIALIZE_TO_FILE',['../tuple__buffer_8h.html#aaf7d5b3c3633e7951ab6b78b0ed2ff65',1,'tuple_buffer.h']]],
-  ['system_20parameters_4',['System Parameters',['../group__SystemParameters.html',1,'']]]
+  ['radix_20join_20implementation_20variants_0',['Radix Join Implementation Variants',['../group__Radix.html',1,'']]],
+  ['radix_5fcluster_1',['radix_cluster',['../group__Radix.html#ga8a84b94a95b3ab7e7e37087f95853e7b',1,'parallel_radix_join.c']]],
+  ['radix_5fcluster_5fnopadding_2',['radix_cluster_nopadding',['../group__Radix.html#gab4acbb0fb32b0f32e0cb294539f82cbb',1,'parallel_radix_join.c']]],
+  ['relation_5fpadding_3',['RELATION_PADDING',['../group__SystemParameters.html#gaa546d56b05697c9f96448f0c70da45be',1,'prj_params.h']]],
+  ['relation_5ft_4',['relation_t',['../structrelation__t.html',1,'']]],
+  ['result_5ft_5',['result_t',['../structresult__t.html',1,'']]],
+  ['rj_6',['RJ',['../group__Radix.html#ga84d79ef98c3b9aaf4b4d11f856a7a8b6',1,'RJ(relation_t *relR, relation_t *relS, int nthreads):&#160;parallel_radix_join.c'],['../group__Radix.html#ga84d79ef98c3b9aaf4b4d11f856a7a8b6',1,'RJ(relation_t *relR, relation_t *relS, int nthreads):&#160;parallel_radix_join.c']]]
 ];
